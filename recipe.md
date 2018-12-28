@@ -3,3 +3,4 @@
 * rice
 * carrots
 * cauliflower
+* spinach
