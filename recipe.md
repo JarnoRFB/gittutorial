@@ -4,3 +4,5 @@
 * carrots
 * cauliflower
 * spinach
+* curry
+* cumin
